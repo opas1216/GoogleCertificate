@@ -1,0 +1,5 @@
+Hi YC,
+I have update PCR form
+Schedule work will temporary run on previous version
+I’ll switch it to new version after UAC signed
+Also, all the config file has set to default, you’ll need to modify for user before user test the robot(only “config” tab, don’t modify other tab )
